@@ -1,10 +1,10 @@
-package com.ezlife.footballcrawler;
+package com.ezlife.manhwacrawler;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FootballCrawlerApplicationTests {
+class ManhwaCrawlerApplicationTests {
 
 	@Test
 	void contextLoads() {

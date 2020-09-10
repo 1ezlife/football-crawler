@@ -1,4 +1,4 @@
-package com.ezlife.footballcrawler;
+package com.ezlife.manhwacrawler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 @EnableScheduling
-public class FootballCrawlerApplication {
+public class ManhwaCrawlerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FootballCrawlerApplication.class, args);
+		SpringApplication.run(ManhwaCrawlerApplication.class, args);
 	}
 
 }

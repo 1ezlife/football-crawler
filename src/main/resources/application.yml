@@ -1,0 +1,21 @@
+flashscore:
+  leagues:
+#    -
+#      name: "Premier League"
+#      nation: england
+#      code: premier-league
+#    -
+#      name: LaLiga
+#      nation: spain
+#      code: laliga
+    -
+      name: China Super League
+      nation: china
+      code: super-league
+read-manhwa:
+  baseUrl: http://readmanhwa.com/
+  manhwaUrl: en/webtoon/
+  manhwas:
+    -
+      name: Secret Class
+      code: secret-class
